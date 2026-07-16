@@ -1,7 +1,7 @@
 <a href="https://github.com/jayeshjidge">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jayeshjidge/jayeshjidge/main/header-image-light.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jayeshjidge/jayeshjidge/main/header-image-dark.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jayeshjidge/jayeshjidge/main/header-image-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jayeshjidge/jayeshjidge/main/header-image-light.png">
   <img alt="Jayesh Jidge" src="https://raw.githubusercontent.com/jayeshjidge/jayeshjidge/main/header-light.png">
 </picture>
 </a>
