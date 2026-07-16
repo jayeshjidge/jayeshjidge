@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/jayeshjidge/jayeshjidge/main/jayesh_header_image.png" alt="Jayesh Jidge" width="100%" height="200" style="object-fit: cover;" />
+<img src="https://raw.githubusercontent.com/jayeshjidge/jayeshjidge/main/jayesh_header_image.png" alt="Jayesh Jidge" width="100%"/>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/jayeshjidge/jayeshjidge/main/wave.gif" width="30px" height="30px" />, I'm Jayesh Jidge</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
