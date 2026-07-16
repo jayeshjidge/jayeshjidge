@@ -1,7 +1,7 @@
 [![Jayesh Jidge](https://raw.githubusercontent.com/jayeshjidge/jayeshjidge/main/jayesh_jidge_header.png)](https://github.com/jayeshjidge)
 
 <h1 align="center">Code • Build • Learn</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Software Engineer sharing about my journey and learning in tech !</h3>
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/jayeshjidge/jayeshjidge/main/dev_working.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayeshjidge&label=Profile%20views&color=0e75b6&style=flat" alt="jayeshjidge" /> </p>
 
