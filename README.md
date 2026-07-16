@@ -9,7 +9,7 @@
 - 🔭 Currently working at Jio Platforms
 - 🌱 Learning System Design & Backend
 - 💼 3+ years of experience
-- 📫 Reach me at: your@email.com
+- 📫 Reach me at: jayeshjidge@gmail.com
 
 ## Tech Stack
 
@@ -26,4 +26,4 @@
 
 ## Connect with me
 
-- LinkedIn: https://linkedin.com/in/yourprofile
+- LinkedIn: https://www.linkedin.com/in/jayesh-jidge
