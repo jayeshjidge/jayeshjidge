@@ -1,4 +1,4 @@
-![Jayesh Jidge](https://raw.githubusercontent.com/jayeshjidge/jayeshjidge/main/jayesh_header_image.png)
+![Jayesh Jidge](https://raw.githubusercontent.com/jayeshjidge/jayeshjidge/main/jayesh_header_image1.png)
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
