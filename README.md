@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Jayesh Jidge</h1>
+<img src="https://raw.githubusercontent.com/jayeshjidge/jayeshjidge/main/jayesh_header_image.png" alt="Jayesh Jidge" width="100%" height="200" style="object-fit: cover;" />
+
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/jayeshjidge/jayeshjidge/main/wave.gif" width="30px" height="30px" />, I'm Jayesh Jidge</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/jayeshjidge/jayeshjidge/main/dev_working.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayeshjidge&label=Profile%20views&color=0e75b6&style=flat" alt="jayeshjidge" /> </p>
