@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/jayeshjidge/jayeshjidge/main/jayesh_header_image2.png" alt="Jayesh Jidge" width="100%"/>
+[![Jayesh Jidge](https://raw.githubusercontent.com/jayeshjidge/jayeshjidge/main/jayesh_jidge_header.png)](https://github.com/jayeshjidge)
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/jayeshjidge/jayeshjidge/main/wave.gif" width="30px" height="30px" />, I'm Jayesh Jidge</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
